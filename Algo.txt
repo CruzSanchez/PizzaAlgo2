@@ -1,2 +1,3 @@
 Call Dominos.
 Order pizza.
+Pay for pizza.
