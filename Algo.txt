@@ -2,3 +2,13 @@ Call Dominos.
 Order pizza.
 Pay for pizza.
 Wait on driver.
+Another step
+
+
+
+
+Exercise:
+Create new remote (on github) repo called PizzaAlgo2
+Copy Link
+add the remote to your PizzaAlgo project - dont use origin, use origin2
+Push code to your remote repo origin2
